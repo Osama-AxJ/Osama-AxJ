@@ -3,6 +3,7 @@
   <img alt="HTML" src="https://img.shields.io/badge/HTML-black?style=for-the-badge&logo=html5&logoColor=7289DA">
   <img alt="CSS" src="https://img.shields.io/badge/CSS-black?style=for-the-badge&logo=CSS&logoColor=7289DA">
   <img alt="JavaScript" src="https://img.shields.io/badge/JAVASCRIPT-black?style=for-the-badge&logo=JavaScript&logoColor=7289DA"> 
+  <img alt="Blender" src="https://img.shields.io/badge/Blender-black?style=for-the-badge&logo=blender&logoColor=7289DA">
 </p>
 
 
